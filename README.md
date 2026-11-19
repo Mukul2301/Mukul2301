@@ -1,73 +1,71 @@
-# Welcome to [Mukul Shende's](https://aswinbarath.me/) profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Hi, I'm Mukul Shende 👋
 
-<a href="https://www.linkedin.com/in/mukul-shende/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="30" width="40" /></a>
-&nbsp;
-<a href="https://twitter.com/MukulShende3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.instagram.com/mukul_shende//" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-&nbsp;
+M.Sc. student in **Natural Language Processing** at Universität Trier, and a former **full-stack software engineer** (2+ years in production on a logistics platform). I build web apps end to end and I analyse data and language models with real evaluation, not vibes.
 
+I'm looking for a **Werkstudent / internship** role in **software development** or **data analytics**, based in Trier, Germany.
 
-
-
-## Glad to see you here! &nbsp; 
-
-I am a full-stack software engineer. I love programming, gaming, and travelling.
-
-As a software engineer, I enjoy using my obsessive attention to detail, and my passion for making things that change the world.
-
-That's why I like to make things that make a difference.
-
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
-
-
-### Talking about Personal Stuff:
-
-- 👨‍🎓 I'm a **Senior Software Engineering Student**
-- 🔭 I’m currently working on [React](https://github.com/AswinBarath/react) platform
-- 🌱 I'm currently learning:
-  - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
-- 📬 How to reach me: [mukulshende31@gmail.com](mailto:mukulshende31@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/13DBOeZwmIbgA0b5_ONmsTSV3txmpSS2K/view?usp=sharing).
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mukul--shende-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukul-shende/)
+[![Email](https://img.shields.io/badge/Email-mukulshende31%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:mukulshende31@gmail.com)
 
 ---
 
-## 🛠️ My Favourite tools
+## What I do
 
-### 👨‍💻 Programming languages
+**Full-stack**
+- 2+ years at Emtec Technologies (Pune) on the *Mastery* logistics platform
+- Built features across the stack: React front end, NestJS + GraphQL API, PostgreSQL
 
-<p>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-        <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+**Data & NLP**
+- Master's research in NLP: text representation study and an LLM annotator benchmark
+- Business Analytics coursework: inventory and stockout analysis on fresh retail data
 
-</p>
+---
 
-### 🧰 Frameworks and libraries
+## Featured projects
 
-<p>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-</p>
+### Full-stack
 
-### 🗄️ Databases and Cloud Hosting
+| Project | What it is | Stack |
+|---|---|---|
+| **[Annadan](https://github.com/Mukul2301/REPO-NAME)** | Surplus food donation platform that connects donors with people who need food. Built at the NextDev Hackathon. | Next.js, Supabase, Groq |
+| **[Campus Marketplace](https://github.com/Mukul2301/REPO-NAME)** | Second-hand marketplace for Uni Trier students: listings, verified university email sign-up, Telegram contact. *In progress.* | Next.js, Supabase (RLS) |
+| **[Kanban Board](https://github.com/Mukul2301/kanban-board)** | Task board app. | TypeScript |
 
-<p>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-        <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-</p>
+### Data & NLP
 
-### 💻 Software and tools
+| Project | What it is | Tools |
+|---|---|---|
+| **[LLM Annotator Benchmark](https://github.com/Mukul2301/REPO-NAME)** | Compared four LLMs as annotators across tasks, 180 examples per task. | Python |
+| **[Text Representation Study](https://github.com/Mukul2301/REPO-NAME)** | Comparison of text representation methods for NLP tasks. | Python |
+| **[Fresh Retail Inventory Analysis](https://github.com/Mukul2301/REPO-NAME)** | Capstone on stockouts and inventory in fresh retail. | Python, Jupyter |
 
-<p>
-    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+---
+
+## Tech stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+---
+
+## Get in touch
+
+The best way to reach me is [LinkedIn](https://www.linkedin.com/in/mukul-shende/) or by [Email](mailto:mukulshende31@gmail.com). I'm happy to talk about web development, NLP, or working student roles.
